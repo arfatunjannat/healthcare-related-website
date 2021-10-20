@@ -1,0 +1,57 @@
+[
+    {
+        "id":"1",
+        "name":"kidney",
+        "description":"Our kidney service is always best.all petion happy for our kidney service",
+        "image":"https://i.ibb.co/J2r1Nxt/doctor-looks-kidney-hologram-checks-test-result-virtual-interface-analyzes-data-kidney-disease-stone.jpg"
+
+    },
+    {
+        "id":"2",
+        "name":"Heart-Attack",
+        "description":"Our heart-attack service is always best.all petion happy for our heart-attack service",
+        "image":"https://i.ibb.co/W21HGVY/heart-attack-symptoms-warning-signs-infographic-1308-47217.jpg"
+
+        
+    },
+    {
+        "id":"3",
+        "name":"Acid Reflux",
+        "description":"Our Acid Reflux service is always best.all petion happy for our  Acid Reflux service",
+        "image":"https://i.ibb.co/Nt5DWvK/woman-suffering-from-acid-reflux-gastroesophageal-reflux-home-61573-3334.jpg"
+
+    },
+    {
+        "id":"4",
+        "name":"Liver Disease",
+        "description":"Our Liver Disease service is always best.all petion happy for our  Liver Disease service",
+        "image":"https://i.ibb.co/nrkzm8q/stem-cells-liver-repair-1308-48084.jpg"
+
+    },
+    {
+        "id":"5",
+        "name":"Alzheimer-disease",
+        "description":"Our alzheimer-disease service is always best.all petion happy for our alzheimer-disease service",
+        "image":"https://i.ibb.co/MCrvbm0/post-img-2-8e6ad0cf.jpg"
+
+
+    },
+
+    {
+        "id":"6",
+        "name":"Skin-pimple",
+        "description":"Our skin-pimple service is always best.all petion happy for our skin-pimple service",
+        "image":"https://i.ibb.co/XWgN0gf/sick-woman-sitting-bed-blowing-nose-with-napkin-1262-18654.jpg"
+
+    },
+
+    {
+        "id":"7",
+        "name":"Eyes Dessise",
+        "description":"Our Eye service is always best.all petion happy for our Eye Fever",
+        "image":"https://i.ibb.co/zQzz5xC/little-girl-covering-eyes-with-hands-t-shirt-looking-sleepy-front-view-176474-89453.jpg"
+
+    }
+    
+]
+
